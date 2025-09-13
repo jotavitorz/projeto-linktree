@@ -1,8 +1,8 @@
 
-export function Home() {
-    return (
+export function Home() { 
+    return ( 
         <div>
-            <h1>Página Home</h1>
+            ola
         </div>
     )
 }
