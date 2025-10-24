@@ -21,13 +21,13 @@ O sistema possui **autenticação**, **rota privada** (somente usuários logados
 ## 🎨 Layout
 
 <p align="center">
-  <img src="./.github/login.png" width="400px">
-  <img src="./.github/dashboard.png" width="400px">
+  <img src="./public/screenshot-project1.png" width="400px">
+  <img src="./public/screenshot-project4.png" width="400px">
 </p>
 
 <p align="center">
-  <img src="./.github/socials.png" width="400px">
-  <img src="./.github/profile.png" width="400px">
+  <img src="./public/screenshot-project2.png" width="400px">
+  <img src="./public/screenshot-project3.png" width="400px">
 </p>
 
 ---
