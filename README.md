@@ -21,13 +21,13 @@ O sistema possui **autenticação**, **rota privada** (somente usuários logados
 ## 🎨 Layout
 
 <p align="center">
-  <img src="./public/screenshot-project1.png" width="400px">
-  <img src="./public/screenshot-project4.png" width="400px">
+  <img src="./public/screenshot-project1.png" width="400px" height="400px">
+  <img src="./public/screenshot-project4.png" width="400px" height="400px">
 </p>
 
 <p align="center">
-  <img src="./public/screenshot-project2.png" width="400px">
-  <img src="./public/screenshot-project3.png" width="400px">
+  <img src="./public/screenshot-project2.png" width="400px" height="400px">
+  <img src="./public/screenshot-project3.png" width="400px" height="400px">
 </p>
 
 ---
