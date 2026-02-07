@@ -14,7 +14,7 @@ interface LinkProps {
 }
 
 interface SocialLinksProps {
-    facebook: string;
+    github: string;
     youtube: string;
     instagram: string;
 }
@@ -57,7 +57,7 @@ export function Home() {
             .then((snapshot) => {
                 if(snapshot.data() !== undefined){
                     setSocialLinks({
-                        facebook: snapshot.data()?.facebook,
+                        github: snapshot.data()?.github,
                         instagram: snapshot.data()?.instagram,
                         youtube: snapshot.data()?.youtube,
                     })
@@ -89,7 +89,7 @@ export function Home() {
                 
                 {socialLinks && Object.keys(socialLinks).length > 0 && (
                 <footer className="flex justify-center gap-3 my-4"> 
-                    <Social url={socialLinks?.facebook}>
+                    <Social url={socialLinks?.github}>
                         <FaGithub size={35} color="#fff" />
                     </Social>
                     <Social url={socialLinks?.instagram}>
